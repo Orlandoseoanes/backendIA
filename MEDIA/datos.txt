@@ -1,0 +1,3 @@
+Rata de aprendizaje: 0.5
+Número de iteraciones: 10
+Error máximo permitido: 0.23
